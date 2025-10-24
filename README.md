@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```yaml
+name: Curtis Tilves, PhD
+located_in: Denver, Colorado, USA
+current_job: Research Associate
+education:
+  [
+    "BS in Molecular Biology",
+    "BAs in Philosophy and History & Philosophy of Science",
+    "MS in Epidemiology",
+    "PhD in Epidemiology",
+  ]
+employer:
+  Department of Epidemiology
+  Lifecourse Epidemiology of Adiposity and Diabetes Center
+  University of Colorado Anschutz Medical Campus
+
+research_interests:
+  [
+    "Lifecourse epidemiology",
+    "Microbiome",
+    "Nutrition",
+    "Multi-omics integration",
+    "Obesity and body composition",
+    "Compositional Data Analysis (CoDA)",
+    "Cardiometabolic disease",
+    "Aging",
+  ]
+
+
+```
